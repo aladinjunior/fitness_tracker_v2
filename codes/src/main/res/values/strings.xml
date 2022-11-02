@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TFitStudio</string>
+    <string name="bmi_full_name">Body Mass Index</string>
+    <string name="bmi_3L_name">BMI</string>
+    <string name="bmr_full_name">Basal Metabolic Rate</string>
+    <string name="bmr_3L_name">BMR</string>
+    <string name="bmi_form_title">BMI FORM</string>
+    <string name="weight_hint">your weight: (in KG)</string>
+    <string name="height_hint">your height (in cm)</string>
+    <string name="bmi_result">Your BMI is: %1$.2f</string>
+    <string name="bmi_fee">%1$s</string>
+    <string name="bmr_form_title">BMR FORM</string>
+    <string name="gender">Your Gender:</string>
+    <string name="age_hint">"your age: "</string>
+    <string name="bmr_result_title">Your BMR: %1$.1f</string>
+    <string name="field_message">Fields can\'t be null or empty!</string>
+    <string name="save">Save</string>
+    <string name="list_response">Type: %1$s | Value: %2$.1f</string>
+    <string name="bmr_menu">BMR Saves</string>
+    <string name="bmi_menu">BMI Saves</string>
+</resources>
